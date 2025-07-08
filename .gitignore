@@ -1,0 +1,8 @@
+..venv
+/.venv/
+.data/
+/.data/
+data/
+.venv/
+reports/
+vector_store/
