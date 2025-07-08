@@ -1,0 +1,14 @@
+Exploratory Data Analysis Summary
+================================
+
+Key Findings:
+- The dataset contains complaints across multiple financial products.
+- There are significant variations in complaint volumes across different products.
+- Many complaints lack detailed narratives, which need to be filtered out.
+- Narrative lengths vary widely, requiring appropriate chunking strategies.
+
+Data Preparation Steps:
+- Filtered dataset to include only the five specified product categories.
+- Removed records with missing or empty complaint narratives.
+- Cleaned text through lowercasing and removal of special characters.
+- Filtered out very short narratives that would not provide meaningful context.
