@@ -83,37 +83,12 @@
 
 # 
 
-## System Evaluation
-
-# 
-
-# | Question | Generated Answer | Retrieved Sources | Quality Score |
-
-# |---------|------------------|-------------------|---------------|
-
-# | Why are people unhappy with BNPL services? | \[Answer excerpt...] | Credit card, BNPL | 4 |
-
-# | What are the common issues with credit cards? | \[Answer excerpt...] | Credit card, BNPL | 5 |
-
-# | How do customers complain about money transfers? | \[Answer excerpt...] | Money transfer | 4 |
-
-# | What problems do users face with savings accounts? | \[Answer excerpt...] | Savings account | 5 |
-
-# | Compare complaints between personal loans and BNPL services. | \[Answer excerpt...] | Personal loan, BNPL | 4 |
-
-# 
-
 # The system performs well in retrieving relevant information and generating coherent answers. It excels at answering direct questions about specific product categories but sometimes struggles with nuanced comparative analysis.
 
 # 
 
 ## UI Showcase
-
-# 
-
-# !\[Screenshot of the Streamlit chat interface showing a conversation about BNPL complaints]
-
-# 
+ 
 
 # The interactive chat interface allows non-technical users to ask questions in natural language and receive evidence-backed answers. Users can expand the "Show sources" section to see which complaint narratives informed the answer, building trust in the system.
 
