@@ -1,8 +1,7 @@
-# \# Intelligent Complaint Analysis for Financial Services: Building a RAG-Powered Chatbot
+# Intelligent Complaint Analysis for Financial Services: Building a RAG-Powered Chatbot
 
-# 
 
-# \## Introduction
+## Introduction
 
 # 
 
@@ -26,11 +25,11 @@
 
 # 
 
-# \## Technical Choices
+## Technical Choices
 
 # 
 
-# \### Dataset
+### Dataset
 
 # 
 
@@ -38,7 +37,7 @@
 
 # 
 
-# \### Chunking Strategy
+### Chunking Strategy
 
 # 
 
@@ -56,7 +55,7 @@
 
 # 
 
-# \### Embedding Model
+### Embedding Model
 
 # 
 
@@ -70,7 +69,7 @@
 
 # 
 
-# \### Language Model
+### Language Model
 
 # 
 
@@ -84,7 +83,7 @@
 
 # 
 
-# \## System Evaluation
+## System Evaluation
 
 # 
 
@@ -108,7 +107,7 @@
 
 # 
 
-# \## UI Showcase
+## UI Showcase
 
 # 
 
@@ -120,7 +119,7 @@
 
 # 
 
-# \## Conclusion
+## Conclusion
 
 # 
 
